@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NoteThat</string>
+    <string name="action_delete_all">Delete all notes</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="all_deleted">All notes deleted</string>
+    <string name="title_activity_editor">EditorActivity</string>
+
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="hint_text">Enter note here</string>
+</resources>

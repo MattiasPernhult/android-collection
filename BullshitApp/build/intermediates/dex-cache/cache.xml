@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-4fbb0f1abfd1e61d4416bf6096ad7d075f03857a.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-2c4b7df96cb82e902c28005931383d4d7f2d2032.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-b5e68fc8c684876a1149ca4f7b01df0cf0aba263.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-6c7c45bc330525187e9c472603b59501b9f6b1ba.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-0266bca97609e022300d905857f8fc007c0afe30.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-13004a2b8d7dd4e9045ac1b9173cbc54502f6dfb.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.felipecsl/gifimageview/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c72fbc1ee08324e22ecc60e1a6dba204485906f0">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-6c15c3f285cfbcd417bb7411581d93fa3c832555.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-1537b666c1448119fe57be311c8d4f263c37c852.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-a32ddea217b5a30d8bf768d1b02dbf1907b14925.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-032e7288992ca00f526007263f59ab5b52b1dbbc.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-569069e11d8ad1228f1f3afe70046b31a5fb211c.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-1960cab18dd962ed6636425ec9090dcba1fcd368.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.4/b1b6ea3b7e4aa4f492509a4952029cd8e48019ad/commons-io-2.4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/commons-io-2.4-5e5ba936deb412594645f5d77174f28cecdb682a.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-a84c127f098b509244b3a50bdb460e41e88af620.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.0.1/39eff75ddcb987ff65888361a29f489c178429a3/okio-1.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="39eff75ddcb987ff65888361a29f489c178429a3">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/okio-1.0.1-e6a0956c7ae529bce126eb7612f7c07c842a6812.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-ed3ae9e1e96366c33783786d2fb51085ac9ad580.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-76c0fc8ef22fc5c0888ff7261973c010d70124af.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-c9159f6c1a6d498eeb044b9cb4208849557c2275.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-98e942756f3b038b0197caf3d20ba592c3e45f66.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-c22bdbb1d7a0cc1de13d5617accd23ab40d74ef5.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-0537686ccd1381d25f0bf7d4ead26c7c9becdb5b.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-2fc77ae91642df9f955f980d1eca0bdc8e4e6619.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-1c758dcf09f2dc2b84ca50b432f621553867cb23.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-51221554ff1a73f4f0b5544da83c7e47f933cdb7.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-6658099539dad091f5ce489e373b239d08e35e3e.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-17e63364bbed3a15194505869ff6fbe8d3529933.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-944801a80b3123639c33674b76d9f2740648a1c3.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.1.0/9b51f7d0c19f179b52beab7cb433f8ba5cf786a4/okhttp-2.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9b51f7d0c19f179b52beab7cb433f8ba5cf786a4">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/okhttp-2.1.0-472f1b596d18283d8cc764d4a118e7840912da8c.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-c43c81bea215bdb01b606cf3debcf5ed7fd91c0f.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-ca699777f5174c79d0f102f0561d9dd4f2e78503.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-6abebae93d7ef395a0d12a676dab70e826ccce0a.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-1e6c49874563cdb63cef4f0fb92ef6bb8adea5ae.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/info.hoang8f/fbutton/1.0.5/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="2c12397a785c3b1868fbebeffc9553457b27803f">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-487654016c48c86e4117fd3d71b3a34d22ed6c7d.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/mattiaspernhult/Code/android/BullshitApp/mobile/build/intermediates/pre-dexed/debug/classes-856570f3c7f0f9d6550f85e89a2abf5b48369601.jar" />
+    </item>
+
+</items>

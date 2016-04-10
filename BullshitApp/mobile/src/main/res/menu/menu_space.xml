@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.fam.fam.bullshitapp.SpaceActivity">
+
+    <item android:id="@+id/action_person_ISS" android:title="@string/persons_on_iss"
+        android:orderInCategory="100" app:showAsAction="never" />
+
+</menu>

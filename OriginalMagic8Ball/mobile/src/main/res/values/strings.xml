@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Magic 8 Ball</string>
+
+    <string name="action_gen_pos">Force positive</string>
+    <string name="action_gen_neg">Force negative</string>
+    <string name="action_gen_neu">Force neutral</string>
+    <string name="action_gen">No force</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Bullshit App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_space">Where is the ISS?</string>
+    <string name="title_activity_giphy">Ask me anything</string>
+    <string name="title_activity_yoda">Yoda</string>
+    <string name="btnAskQuestion">Ask</string>
+    <string name="persons_on_iss">Persons on ISS</string>
+    <string name="finish">Done</string>
+    <string name="no_persons_on_ISS">No persons on ISS right now</string>
+    <string name="new_advice">New advice</string>
+</resources>

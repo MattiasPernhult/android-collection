@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mattiaspernhult/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-11eba110b8a4289edb33e9e04444b33d814ecbfe.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-75a27a0ab8c3d3975258e3a3c761f6822b8d830b.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-6c62d143d448068fe6b9098efab0ac7f080b2420.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-c6af8ea3d07f48254d12f3ed8797343841bdddeb.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-428290d797ee480e4a596862aa23c0551d5f612b.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-e8f41c3d2769d90b8e7721f22e45f8f0b4e39fb1.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-9865723d46cc69ce4961205e55de80fae5e258fe.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-7d00285588f1d8e4aaf0bd683094f7e7f490a4e2.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-62631bca29940913e5be26aff0fb455183dd3670.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-7ab2948b1dec2586999ec88c86068569a81b2524.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-da25045c3ef259fdb2e247ca79386ac12270955e.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-f7991f661e403dd32f88a516f945645ae6c4afe6.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-ba3298c2b888bec440e3bda63a32faae8b9dfba5.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-64c930416954f70ebd1bd8fb6ae4fb0c4e5b38c3.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.github.markushi/circlebutton/1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ebe3b1f14fa79ba3cd1588acda4e6517ee9fe611">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-412b2c40ac3c9fe492b9666e3f8fbd44e8791dbf.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-2c295b77b7ee16c6963c5a8ec743aa445fddc3e5.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-10f5bf5342c8d2f91f39a4072ada4fb42bedc947.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-fe5b8cbdc98e544b2e80a236b5493aff766b5b89.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-1c5dd2f50638267c3511f98cebbe68d866b66683.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-16b52382e3c77e1d4c85e9fac9b381097b03d52d.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-52789df34f5bf4e21a8a6a15216c120232ee079c.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-6694e6b428ec38b6a7aff136b3f48503dfa7c620.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-8efdf0e49e9e46c630a0bd22ef018a495f7c4dc7.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-fe5878f8f277ad85e26d17c490d1d319b20021cb.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-c7c952a9410a028adba85ee42c88ad44211b7e69.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-7953015db526c65cdcb46b3500111828b0d4aa02.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-3cf27d5243bfcecdd8958f430174bb29909209c3.jar" />
+    </item>
+    <item
+        jar="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="/Users/mattiaspernhult/Code/android/NoteThat/mobile/build/intermediates/pre-dexed/debug/classes-1f6a0c053010548747e98e10d966a97230fef78b.jar" />
+    </item>
+
+</items>
